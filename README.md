@@ -1,5 +1,5 @@
 # deep-learning-challenge
-HW16
+HW16 - Module 21 - Max Fishman
 
 # Alphabet Soup Deep Learning Model Analysis Report
 
